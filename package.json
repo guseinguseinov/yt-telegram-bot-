@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-telegram-bot-api": "^0.58.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
